@@ -1,4 +1,4 @@
-# Udemy-Clone Website
+# Udemy-Website
 
      Welcome to my Udemy Clone website, this website emphasizes proper HTML structure, basic CSS styling, and responsive layout concepts. It is built for educational purposes to practice frontend fundamentals and understand real-world website design patterns.
 
